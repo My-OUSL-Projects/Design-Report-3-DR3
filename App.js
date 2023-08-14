@@ -99,11 +99,6 @@ const styles = StyleSheet.create({
     paddingBottom: 10
   },
 
-  title: {
-    textAlign: 'center',
-    marginVertical: 8,
-  },
-
   fixToText: {
     flexDirection: 'row',
     justifyContent: 'space-between',
